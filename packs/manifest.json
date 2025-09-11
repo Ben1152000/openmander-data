@@ -1,0 +1,30 @@
+{
+  "IA": {
+    "IA_2020": {
+      "path": "IA/IA_2020_pack.zip",
+      "sha256": "4a8a5aaacfc54e85b4a827887730e03a33f30b6db294a78b5159fd8cd7179b4d",
+      "size": 119374571
+    }
+  },
+  "IL": {
+    "IL_2020": {
+      "path": "IL/IL_2020_pack.zip",
+      "sha256": "c1080baacb21168808ccc86a49b71c2f8585570573b067214756e7466d4f4b30",
+      "size": 246997776
+    }
+  },
+  "NC": {
+    "NC_2020": {
+      "path": "NC/NC_2020_pack.zip",
+      "sha256": "01fc181fff925511ffb8bfde9ac40e4d885f37da8232ee99ff457777175caf84",
+      "size": 287541434
+    }
+  },
+  "NE": {
+    "NE_2020": {
+      "path": "NE/NE_2020_pack.zip",
+      "sha256": "359348b00fa0f1a255ea886d90ab4849db648f73cc2c75e176c779876f07bd36",
+      "size": 70397422
+    }
+  }
+}
