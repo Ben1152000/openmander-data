@@ -5,15 +5,15 @@ import openmander
 
 BASE_PATH = "/Users/benjamin/Programming/projects/openmander/packs/"
 
-# STATE_CODES = [
-#     "AL", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "ID",
-#     "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI",
-#     "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY",
-#     "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN",
-#     "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
-# ]
+STATE_CODES = [
+    "AL", "AZ", "AR",       "CO", "CT", "DE", "FL", "GA", "ID",
+    "IL", "IN", "IA", "KS", "KY", "LA",       "MD", "MA", "MI",
+    "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY",
+    "NC", "ND", "OH", "OK",       "PA", "RI", "SC", "SD", "TN",
+    "TX", "UT", "VT", "VA", "WA",       "WI", "WY",
+]
 
-STATE_CODES = [ "CA", "ME", "OR", "WV" ]
+# STATE_CODES = [ "CA", "ME", "OR", "WV" ]
 
 #   CA: RuntimeError: GET https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/06_CALIFORNIA/06/tl_2020_06_vtd20.zip returned error status
 #   OR: RuntimeError: GET https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/41_OREGON/41/tl_2020_41_vtd20.zip returned error status

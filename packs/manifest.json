@@ -2,309 +2,309 @@
   "AL": {
     "AL_2020": {
       "path": "AL/AL_2020_pack.zip",
-      "sha256": "733b284ac3ef42893ef0d3a524d4586f9eecf97c6d2b7c4edab8f320b7b31cdc",
-      "size": 233778896
+      "sha256": "138ba4200026a2b9c8888ab18caf12cbda6846232222d46a978406651fdae294",
+      "size": 221871735
     }
   },
   "AR": {
     "AR_2020": {
       "path": "AR/AR_2020_pack.zip",
-      "sha256": "745b98c4dd1a6fc647a8c2cfb7fc6fcf10e36c41bd3b78be2d447c11e1f2603d",
-      "size": 195658392
+      "sha256": "039b7622b603203bd3b5c67113c5c38af93e052ec1c5b00c9cf947b0e0b830b2",
+      "size": 185898627
     }
   },
   "AZ": {
     "AZ_2020": {
       "path": "AZ/AZ_2020_pack.zip",
-      "sha256": "e38f291513a50ee3bcf342fea0081e5d3589d1987874c9374d7ced2917facd59",
-      "size": 188926807
+      "sha256": "48ab70a0da2f618febffda81a89c36e41cfa0d2e06341f31460d726bbcd81f2c",
+      "size": 180099702
     }
   },
   "CO": {
     "CO_2020": {
       "path": "CO/CO_2020_pack.zip",
-      "sha256": "5a50c117bc10426e3676c3464f2fb81c259ad5b28ce2b637698e3413af657af6",
-      "size": 188800192
+      "sha256": "dc83f5324a3c7577b8d374e18e69746386906e399f03646a5fba5fe010bf6f00",
+      "size": 180317885
     }
   },
   "CT": {
     "CT_2020": {
       "path": "CT/CT_2020_pack.zip",
-      "sha256": "5925c73050d83953f589ccfb99436074fb9e90fef211583d3f5376ff155ae5aa",
-      "size": 55448432
+      "sha256": "391fb06d40542ae51a19e3a088d6e35f9110e3a843872d053ca92a7ce2ecb450",
+      "size": 52217355
     }
   },
   "DE": {
     "DE_2020": {
       "path": "DE/DE_2020_pack.zip",
-      "sha256": "f458efd3d3e7f846f3f8b1375ec4ac97b6382fee45f263948e95b4d79979bdf8",
-      "size": 18782646
+      "sha256": "09fd78fbdaebe613be8057dae75feab28023ae680a805e373e377f82fd0a9da1",
+      "size": 17630703
     }
   },
   "FL": {
     "FL_2020": {
       "path": "FL/FL_2020_pack.zip",
-      "sha256": "068af2168c4534c6f3fedda5f858880aaae26a61a13fb093b51226014119a192",
-      "size": 344237222
+      "sha256": "08166cee6fbdefd9260e346e79a8b9f37ea1c421f033ba370c4c2be6582a3272",
+      "size": 326794534
     }
   },
   "GA": {
     "GA_2020": {
       "path": "GA/GA_2020_pack.zip",
-      "sha256": "145343e1c62d02679d851b54e137caf2d8835ec9a22d6e469eaea50b2311e149",
-      "size": 287864051
+      "sha256": "292687d6f5531709b673ea5abaae3eda38099fe66e64f25e4f67f08a89827904",
+      "size": 274072253
     }
   },
   "IA": {
     "IA_2020": {
       "path": "IA/IA_2020_pack.zip",
-      "sha256": "7e7ae72a187d4b6cd11cfa7b15e1a778f889df3dc631a1a7f26366a932743b8c",
-      "size": 141702146
+      "sha256": "4b8d0b799d172e7582d687bebe2b02a67371eb80206a28bedf417c90b1226180",
+      "size": 132814391
     }
   },
   "ID": {
     "ID_2020": {
       "path": "ID/ID_2020_pack.zip",
-      "sha256": "0a9f45dc3e18409813d4e314be44660e345ecfdcd65d54daf08579a8eb48ce03",
-      "size": 154094074
+      "sha256": "35a7a775e4b11327bc055ee7592332dbc330ed2110eef8db99f416da92bf17e0",
+      "size": 148573820
     }
   },
   "IL": {
     "IL_2020": {
       "path": "IL/IL_2020_pack.zip",
-      "sha256": "6daba16b3232f49bc8902a027860f486f9f0a9b6fa628f3dfffe5e8e9e50b4c9",
-      "size": 294199074
+      "sha256": "807c30b3fe8befac54eab7051cecf6d4a85cf4605abb58e721db0cac897851d2",
+      "size": 276355623
     }
   },
   "IN": {
     "IN_2020": {
       "path": "IN/IN_2020_pack.zip",
-      "sha256": "482d775443f1cc75b3b0cfed3c8ee6b1284a5ce2b84a0b65a7ad260ff8def3d3",
-      "size": 174590589
+      "sha256": "83b09f49a8129960badc774f73c03d25935b544161cc774d0d1a47bcca147efb",
+      "size": 164041027
     }
   },
   "KS": {
     "KS_2020": {
       "path": "KS/KS_2020_pack.zip",
-      "sha256": "c4085a2be1df03d603fc8cd19e7b872d80f3e6e4dbfc5e2cb4973de3ddc81234",
-      "size": 140693167
+      "sha256": "96512ce39ac8775f82efc5e23fe87b7aea7776fa84a16363e65e7e0b4a0d9c37",
+      "size": 132570853
     }
   },
   "KY": {
     "KY_2020": {
       "path": "KY/KY_2020_pack.zip",
-      "sha256": "991e5da528e6f66fa80df7b4d313a5de6b582f589828b57cc71991b22a8d2f9a",
-      "size": 233691390
+      "sha256": "08f461d49d02198cb7ace0416218cffb4f93e759bca5f96e018c2c235d8b6121",
+      "size": 220829356
     }
   },
   "LA": {
     "LA_2020": {
       "path": "LA/LA_2020_pack.zip",
-      "sha256": "c92383533bbc9526f65353f26bffb1bfde4ce3a4be787e962c6705f88f75a7db",
-      "size": 184720876
+      "sha256": "a95b142d9d0bfe30fdf04f72c564f7c1d2bc7dd94839bf7de56096754423b22e",
+      "size": 176740137
     }
   },
   "MA": {
     "MA_2020": {
       "path": "MA/MA_2020_pack.zip",
-      "sha256": "c49ba8784ea3cfe39961979b867c39b95c3f5ef47e3e8f7602cd6f165ce6d3ab",
-      "size": 101480092
+      "sha256": "4b5ecaccf9fdd1dbcf96ba6628a22ca2036b6452fe02c2f28fb5562aeb6147d6",
+      "size": 96308929
     }
   },
   "MD": {
     "MD_2020": {
       "path": "MD/MD_2020_pack.zip",
-      "sha256": "1ac99474fe51aada969be97281d90c1e6ad8df4354a1c685c49c9387fbc94889",
-      "size": 102222914
+      "sha256": "1232aab27b8eeb7a51e3ccd39d5f8998e9641372cc261fded21e4e4d8f5ed5e1",
+      "size": 97166354
     }
   },
   "MI": {
     "MI_2020": {
       "path": "MI/MI_2020_pack.zip",
-      "sha256": "b5a19511c0423e9cee2d5550e4746ea63a46f0c57b472a7c2be637896631461a",
-      "size": 202883328
+      "sha256": "88337c6bd6e3e4bf3b049fd3caaf1260eaf72099ccc033bbfa92ad454487e2e3",
+      "size": 193699793
     }
   },
   "MN": {
     "MN_2020": {
       "path": "MN/MN_2020_pack.zip",
-      "sha256": "c5f6cf53b13c0e21a0c54c7e9cc2b0202a8bf01d0a651e008b6fc3e213ca86de",
-      "size": 228712932
+      "sha256": "6cae1d3e675e89fc2446c3074d2c4762814f3a2a35041cb3454cebb17b5f7d3e",
+      "size": 217346222
     }
   },
   "MO": {
     "MO_2020": {
       "path": "MO/MO_2020_pack.zip",
-      "sha256": "42c296189cb0582b8bd7eb217600e51b4a69f82f01ce4b964adee67dda7d1edb",
-      "size": 293763540
+      "sha256": "5c963652dc5409e89747003a2bf89c51c076e7c1b72ce15f25c3896a03d1055b",
+      "size": 279235216
     }
   },
   "MS": {
     "MS_2020": {
       "path": "MS/MS_2020_pack.zip",
-      "sha256": "f6f3837ceef7da43609ef1e55a1a1ce7274e9e7615f44241c3a9eca7a8b09dc6",
-      "size": 176279549
+      "sha256": "0f76f9c9e2c43d62f561305b62e2410f67fff8b201b6388850148b0bdcbc8b72",
+      "size": 167902564
     }
   },
   "MT": {
     "MT_2020": {
       "path": "MT/MT_2020_pack.zip",
-      "sha256": "dfcf9d5c2c3910e732167e34b3f111695d5306624f77466e57a1a95a9c3d89dd",
-      "size": 186035269
+      "sha256": "7f9d05498e6113809bc83394091240e248bea1beb63be0f50dd2cef06f1a3ed3",
+      "size": 178480992
     }
   },
   "NC": {
     "NC_2020": {
       "path": "NC/NC_2020_pack.zip",
-      "sha256": "f2df2adcd77fa285ff2cfe606bffeaa936f558d9937ffe01b0dabdbed58fb2b3",
-      "size": 329196976
+      "sha256": "f433bc38898f7891615bfa4b2bb8b980a098548d2d91383aabd6e616fdb8e687",
+      "size": 312209476
     }
   },
   "ND": {
     "ND_2020": {
       "path": "ND/ND_2020_pack.zip",
-      "sha256": "b98f9e082e0ff0bef0d5b0f09ff4574ca3bfeba87a073cd489b09b129ba58acd",
-      "size": 73434240
+      "sha256": "eee1cb35efc91068e53e55d76da459c2be9e93e50aab79afc39af93be32fb252",
+      "size": 68679730
     }
   },
   "NE": {
     "NE_2020": {
       "path": "NE/NE_2020_pack.zip",
-      "sha256": "57dccd7f424f8508a5e9e2d26793431eaae4a35c05f63182b05296b7e4a7e97e",
-      "size": 83957244
+      "sha256": "838d13e56270afb2c0a25649bbf88bfd74b9aaaa869c8ab3f01264f8faf14de0",
+      "size": 78899317
     }
   },
   "NH": {
     "NH_2020": {
       "path": "NH/NH_2020_pack.zip",
-      "sha256": "1dc33a383fb71641e7461b83601e2d977c8b65a2459a74fb78b39778114d1cfb",
-      "size": 38909022
+      "sha256": "bec8a66184fecec8725af3d89420908aa64fc6370512ace5b4991ac9151c9423",
+      "size": 36805693
     }
   },
   "NJ": {
     "NJ_2020": {
       "path": "NJ/NJ_2020_pack.zip",
-      "sha256": "c04451c762ef5acc982e2dadbaec0608a221f584f6fec258b4b07440c7b1407e",
-      "size": 124211544
+      "sha256": "c75b466f1d747cd0be87fa33f691cb9e13700593be2a2ac04833933b9296bace",
+      "size": 118268900
     }
   },
   "NM": {
     "NM_2020": {
       "path": "NM/NM_2020_pack.zip",
-      "sha256": "b17a916456a5b57e0c8f31c8721982b08fc8c37de98f094c31a72e556a64414f",
-      "size": 147594310
+      "sha256": "2a3ad39e143b3cfdbc5d04729d20a97aa63321c174736524087f3c2c8dfc4dde",
+      "size": 141236646
     }
   },
   "NV": {
     "NV_2020": {
       "path": "NV/NV_2020_pack.zip",
-      "sha256": "e91bc2d3b9a652eaa3e5fe51cf5d949432ffbd1399153437c40dc1214b54d9f0",
-      "size": 100093005
+      "sha256": "52763b965332863039832bd6609c118d10bbf742f482543dba59a69c5e750106",
+      "size": 95452210
     }
   },
   "NY": {
     "NY_2020": {
       "path": "NY/NY_2020_pack.zip",
-      "sha256": "38dacf2558baf181745585a04fe67ba6a1703ba9966ce50b342659cbb05744c3",
-      "size": 299712714
+      "sha256": "acbf85b75197e47bfed11b944fae125da26098c83b7a3d5b250c48ec88ecf37e",
+      "size": 285793167
     }
   },
   "OH": {
     "OH_2020": {
       "path": "OH/OH_2020_pack.zip",
-      "sha256": "d86a9a9b61b279e6ad8131b6c346831f9b2a3d0e7e7d927c6df95dabdfe3e50d",
-      "size": 267698775
+      "sha256": "44b482973e135ca0886f4f5804bc5c0f68a0d09bbc95e0d8a3bde7fc60f7af14",
+      "size": 253085627
     }
   },
   "OK": {
     "OK_2020": {
       "path": "OK/OK_2020_pack.zip",
-      "sha256": "bb042491d7a18a5200b844e1d25670e26f7956476a92792280d5a0ace83e20ae",
-      "size": 171070055
+      "sha256": "8e117a40b96499ece3fb0348b4fd74a2d0577b58cb1e420581e9017ca3c0a3c5",
+      "size": 162730417
     }
   },
   "PA": {
     "PA_2020": {
       "path": "PA/PA_2020_pack.zip",
-      "sha256": "40be5cc98fa700520f83f682a2ee2f4a9c3a828c1ec3c33d8b0dcb7f571f292b",
-      "size": 366307504
+      "sha256": "8234bc4b8855197956f9f5dd5386fddf9bd3052fd3efa6a0bc6d743f5ea23d0e",
+      "size": 345163547
     }
   },
   "RI": {
     "RI_2020": {
       "path": "RI/RI_2020_pack.zip",
-      "sha256": "2f9370b6bc8a33053bddb29eae260f04960f2e0a6548cebc1b2499b94985a925",
-      "size": 21942677
+      "sha256": "99da4cfdfd7c448240e61ce666dd0451cc691dfb91a92636964b7efb0140ad40",
+      "size": 20964591
     }
   },
   "SC": {
     "SC_2020": {
       "path": "SC/SC_2020_pack.zip",
-      "sha256": "70f92473ba3d28db212491ce5ca4b2c8f394840dc9ad7b88fe874497a995ac12",
-      "size": 182698595
+      "sha256": "5dae0e7674af5be8431bc18fd2b62f9202174134f2066dc05c12abb5b141c38f",
+      "size": 172181761
     }
   },
   "SD": {
     "SD_2020": {
       "path": "SD/SD_2020_pack.zip",
-      "sha256": "e8aa3db1af60428a27c68e4c53d880f725497ba060d8d525675143e3660cb548",
-      "size": 83834455
+      "sha256": "8e5fecb0f72d285cd119e10f63daa618dd018a315d8261472bdde6d12095b222",
+      "size": 79444039
     }
   },
   "TN": {
     "TN_2020": {
       "path": "TN/TN_2020_pack.zip",
-      "sha256": "7ee1f72fecbfbc97be96cb346cf29632fb6859f677df9b9bcf6dcc83a5c6e708",
-      "size": 279283151
+      "sha256": "e211ea051e114216aaf44e7c6848a40242e26934138657e2d0621cb655110ea5",
+      "size": 264124310
     }
   },
   "TX": {
     "TX_2020": {
       "path": "TX/TX_2020_pack.zip",
-      "sha256": "81380c189f1e9cb99da605c017a23eef7dcb1089a104566c6d9e4087a838cab2",
-      "size": 733236790
+      "sha256": "c98d7de60edc2b7d67ca07227c4a9c4d1e75914adb3b7fc386b0e4c395c92620",
+      "size": 698141112
     }
   },
   "UT": {
     "UT_2020": {
       "path": "UT/UT_2020_pack.zip",
-      "sha256": "d2ed438fbc564ad6a370a222559f5b29e4bc3a588a82177a1fbf1b33424bef56",
-      "size": 137116647
+      "sha256": "f853e1afde835f31ecba935cc3b51f184320332a31488b28d075c6602c5f265d",
+      "size": 131631548
     }
   },
   "VA": {
     "VA_2020": {
       "path": "VA/VA_2020_pack.zip",
-      "sha256": "a0464bdfd79318e84ddc18b9b6fa706711fabae537b93e88d94801fbac3733c4",
-      "size": 278229858
+      "sha256": "c58aec698c3de73c6fc97ea76d9ed831e0dcfdca10a6e437127071e5a9567f8b",
+      "size": 264218568
     }
   },
   "VT": {
     "VT_2020": {
       "path": "VT/VT_2020_pack.zip",
-      "sha256": "81f8f2bf9ab00c65dac38200bf77ad0b7b27544610d4b367cf25ff1026ba1eb1",
-      "size": 40980400
+      "sha256": "b42bd49494ab9c20d7d254738031ba3c0cbdaac5e4f4c61c3b27c52e70f19170",
+      "size": 38834891
     }
   },
   "WA": {
     "WA_2020": {
       "path": "WA/WA_2020_pack.zip",
-      "sha256": "4cba7f509a8943edba59ad9f33bf456d356dc3ae9230e11521f4152bab616e67",
-      "size": 201570666
+      "sha256": "03fb65d82f43426b10c61b447dc0871833c0b7bd918467a503a61444fdbb8735",
+      "size": 192191342
     }
   },
   "WI": {
     "WI_2020": {
       "path": "WI/WI_2020_pack.zip",
-      "sha256": "d382364db67f9eb0b55eec39b2b2259523c722d9186987d2bb45877ca80a8ad2",
-      "size": 246460335
+      "sha256": "8bb09b7947c7c0a21c9d9978a638066490ac09793a7e2fdbf763805ca1a724cb",
+      "size": 234716747
     }
   },
   "WY": {
     "WY_2020": {
       "path": "WY/WY_2020_pack.zip",
-      "sha256": "75be35ce77355bbd327ff73893324b95e54b0ffb09997b08490f7cac4d3d2ffc",
-      "size": 103842659
+      "sha256": "6405e232ec36862f02b5b63c32c38668a1efcdfff88f4f296f85e16861ff395d",
+      "size": 99735019
     }
   }
 }
