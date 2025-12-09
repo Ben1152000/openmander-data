@@ -20,6 +20,13 @@
       "size": 180099702
     }
   },
+  "CA": {
+    "CA_2020": {
+      "path": "CA/CA_2020_pack.zip",
+      "sha256": "70111ef743428672a67f5fdd1837b29481abdf94cf17cf71b4423e32e7803cf1",
+      "size": 607899971
+    }
+  },
   "CO": {
     "CO_2020": {
       "path": "CO/CO_2020_pack.zip",
@@ -116,6 +123,13 @@
       "path": "MD/MD_2020_pack.zip",
       "sha256": "1232aab27b8eeb7a51e3ccd39d5f8998e9641372cc261fded21e4e4d8f5ed5e1",
       "size": 97166354
+    }
+  },
+  "ME": {
+    "ME_2020": {
+      "path": "ME/ME_2020_pack.zip",
+      "sha256": "e03ed163ac139eca4a14f69e599d74ff3274c0b736616b23bf159ec269c703b7",
+      "size": 83813171
     }
   },
   "MI": {
@@ -223,6 +237,13 @@
       "size": 162730417
     }
   },
+  "OR": {
+    "OR_2020": {
+      "path": "OR/OR_2020_pack.zip",
+      "sha256": "251b87fb88b0e9668bde1e6a9ef6a9b082ee17dc22d82e94304ffaf06906fbf9",
+      "size": 228085548
+    }
+  },
   "PA": {
     "PA_2020": {
       "path": "PA/PA_2020_pack.zip",
@@ -298,6 +319,13 @@
       "path": "WI/WI_2020_pack.zip",
       "sha256": "8bb09b7947c7c0a21c9d9978a638066490ac09793a7e2fdbf763805ca1a724cb",
       "size": 234716747
+    }
+  },
+  "WV": {
+    "WV_2020": {
+      "path": "WV/WV_2020_pack.zip",
+      "sha256": "3a8a225412bfa4318f6a3379246ddf58b5564bc66adda707099b108720d764af",
+      "size": 131507961
     }
   },
   "WY": {
