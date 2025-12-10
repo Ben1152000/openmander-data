@@ -100,8 +100,8 @@
   "KY": {
     "KY_2020": {
       "path": "KY/KY_2020_pack.zip",
-      "sha256": "08f461d49d02198cb7ace0416218cffb4f93e759bca5f96e018c2c235d8b6121",
-      "size": 220829356
+      "sha256": "8723a99d0e239a45f6cb2c1d1e576dfe7277f56ba1392e67a6280dc19d6ba594",
+      "size": 220829414
     }
   },
   "LA": {
@@ -219,8 +219,8 @@
   "NY": {
     "NY_2020": {
       "path": "NY/NY_2020_pack.zip",
-      "sha256": "acbf85b75197e47bfed11b944fae125da26098c83b7a3d5b250c48ec88ecf37e",
-      "size": 285793167
+      "sha256": "cd2cd8fc59927e452937b9e92bb28d5ec8a831c06a21eb2ab6b4130bb39a8785",
+      "size": 285793202
     }
   },
   "OH": {
