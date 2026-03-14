@@ -1,0 +1,3 @@
+# Unzipped parquet packs — these are large and tracked as .zip in LFS instead.
+# Webpacks (*_webpack/) are NOT ignored — they are stored as plain files.
+packs/*/*_pack/

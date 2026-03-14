@@ -1,0 +1,77 @@
+{
+  "pack_id": "IA_2020_webpack",
+  "version": "2",
+  "crs": "EPSG:4269",
+  "formats": {
+    "data": "csv"
+  },
+  "levels": [
+    "state",
+    "county",
+    "tract",
+    "group",
+    "vtd",
+    "block"
+  ],
+  "counts": {
+    "block": 175199,
+    "county": 99,
+    "group": 2703,
+    "state": 1,
+    "tract": 896,
+    "vtd": 2536
+  },
+  "files": {
+    "data/county.csv": {
+      "sha256": "39365e400b2ef1603771746927c521879e78c64e5585b842549ba8ba6b4e3ed7"
+    },
+    "data/group.csv": {
+      "sha256": "b9cec0df4ad65b360215e2b7e59ea68ee3dd20cbcd6fb171dbd4190608df139c"
+    },
+    "data/state.csv": {
+      "sha256": "f499cbae1d8a7720cc3138cccfd7abe1b950e92bd29fcbc4e4c29bcb571d30f7"
+    },
+    "data/tract.csv": {
+      "sha256": "ca61d09f23f90013e648003b6ced51951c3f3e4a3818c41402b2a61841fb0208"
+    },
+    "data/vtd.csv": {
+      "sha256": "20c9dcb3d63d37b318171bf6d3433ce5ddaa2a8d2acf4708fdb486c358f3ed78"
+    },
+    "geom/county.region.gz": {
+      "sha256": "1ee835269ee0e4ceadde6df65c5dddb40023f5e64d60efbf02154427e9c5cdc5"
+    },
+    "geom/group.region.gz": {
+      "sha256": "cf2ca8d8a12c2e99e0df0362dfb2fb6ee25e7f11117a4a99effb54744834f79b"
+    },
+    "geom/state.region.gz": {
+      "sha256": "8dc79b8da9c3e3db48a01be6190c76e9c2224b198da2f93fe230883c9566ed3e"
+    },
+    "geom/tract.region.gz": {
+      "sha256": "0ce3410ffcf8c8ae3c841b033cb6ac8244e3b878024311c14cfe7fc1ab2ed5c4"
+    },
+    "geom/vtd.region.gz": {
+      "sha256": "d465c3780cf4d8caf1915a0b520c5e182498e6d5c9dfaf7af38b4fb54d68f187"
+    },
+    "data/block.csv.part000": {
+      "sha256": "72e08e602137fadc875abf19114f5e1b445f5c3a29fc834f122fc2b1320d58ba"
+    },
+    "data/block.csv.part001": {
+      "sha256": "e44bdc09199a76312d6e78552ce6198a086f5ebfa1ad1fa3186b60a2e198ec5e"
+    },
+    "geom/block.region.gz.part000": {
+      "sha256": "9e827a5e3035cb9919143c633d08f7d756728aaae9c3179499bf4d4a1e555ca3"
+    },
+    "geom/block.region.gz.part001": {
+      "sha256": "ba28db91eacb33a6406775c65e88dbb7f7bceee4ba9df7bfe2a5a683dd616c11"
+    },
+    "geom/block.region.gz.part002": {
+      "sha256": "fda731ad4a78f764187a889544029673b875380a8c0efb2d716e3fd244b5c27e"
+    },
+    "geom/geometries.pmtiles.part000": {
+      "sha256": "e23ddc2d5b7a96a695c92224c834beb03df7e1fa5f13cbde6e97cc2c93b5e400"
+    },
+    "geom/geometries.pmtiles.part001": {
+      "sha256": "2462c87d081314a446132a42b13c48819a694e68ba8f025861ecf16e92bc23d5"
+    }
+  }
+}

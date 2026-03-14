@@ -1,0 +1,86 @@
+{
+  "pack_id": "IL_2020_webpack",
+  "version": "2",
+  "crs": "EPSG:4269",
+  "formats": {
+    "data": "csv"
+  },
+  "levels": [
+    "state",
+    "county",
+    "tract",
+    "group",
+    "vtd",
+    "block"
+  ],
+  "counts": {
+    "block": 369978,
+    "county": 102,
+    "group": 9898,
+    "state": 1,
+    "tract": 3265,
+    "vtd": 10084
+  },
+  "files": {
+    "data/county.csv": {
+      "sha256": "6e774a540c5ff9e5d92836ff53938f178bd3552f736c2ee3d90c2dec2437d171"
+    },
+    "data/group.csv": {
+      "sha256": "1316febea58c4ec8d1ab26df5fee2ca6711a8abe5eea933e78098e3c00bc01a5"
+    },
+    "data/state.csv": {
+      "sha256": "622d5210e2b94cc333fafb5173cd2f2c185a68674411e2d330288e8ee90f1a27"
+    },
+    "data/tract.csv": {
+      "sha256": "09e8e17cc362563a74ed8d686aa0abe62e9e455cd751a22ab3049c4a6da29915"
+    },
+    "data/vtd.csv": {
+      "sha256": "b003e0f39cf1e48a73682e638b4381ae9f6c2d7ff5c78543e5df3da3122d31a3"
+    },
+    "geom/county.region.gz": {
+      "sha256": "689f4f567ebdbb44405bc494d54e4777dd6cd4ad54d11335bf905f8ad13778ee"
+    },
+    "geom/group.region.gz": {
+      "sha256": "b0b5fc6bbf970b0bc0c51c4874312e2316bfeb1519aee7512f6404640e03d1a7"
+    },
+    "geom/state.region.gz": {
+      "sha256": "243ae7b34dd38aab5bf657c24a002dad7b88163e508b67521e32fe4b58e812de"
+    },
+    "geom/tract.region.gz": {
+      "sha256": "5441055366422710a4b1a3af9aad3ff524efe889a35d3085af0965ac007ca5c9"
+    },
+    "geom/vtd.region.gz": {
+      "sha256": "d7d2e36c8b7d3e23f391e4662d955b88890095cec667d276a8432a9619040bcd"
+    },
+    "data/block.csv.part000": {
+      "sha256": "fcad9ee1be564f58f85ca2c2be14aa99176fcd403bfa6354510ba48e0cd69bf2"
+    },
+    "data/block.csv.part001": {
+      "sha256": "525ddea2b7722bb99c12637e6de9f3341cf6e28fc3fa96a28b6c8281638e31a8"
+    },
+    "data/block.csv.part002": {
+      "sha256": "651350bc0a146a090c5a8f6d2e413a1bab8ed42e15ec3ff4e65773f1cb1f9871"
+    },
+    "data/block.csv.part003": {
+      "sha256": "b16ce9edd231157792b89ce440843572083f3a4ce826dfd0bc6c5327ffc1259e"
+    },
+    "geom/block.region.gz.part000": {
+      "sha256": "075d4b389cf7995ff8df089e0333b2e2ce144f73753b47222666c407865f2bed"
+    },
+    "geom/block.region.gz.part001": {
+      "sha256": "a3e4fe17d25dd09edabbd76e9f6da1d7c03a8a9ba2ff866c7af6be34b4460686"
+    },
+    "geom/block.region.gz.part002": {
+      "sha256": "f3e43728407f4b75c391e72c6f44d3c2ba62ab4d851f2bf707f4803e47179281"
+    },
+    "geom/block.region.gz.part003": {
+      "sha256": "ac120ea0bf0666b76149fcaea9b01838d6b9e6c11c82fa116f174fcbadde2592"
+    },
+    "geom/geometries.pmtiles.part000": {
+      "sha256": "b93ea9a919a81faf7559bebf878165bd529b2e020ccd161a910b35783efd63e6"
+    },
+    "geom/geometries.pmtiles.part001": {
+      "sha256": "3722f98ca53271420bf1d5d6d91a2a3fe3265a0bd2b825e8f9210c14a9ee326a"
+    }
+  }
+}

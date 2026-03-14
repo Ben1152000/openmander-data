@@ -65,8 +65,8 @@
   "IA": {
     "IA_2020": {
       "path": "IA/IA_2020_pack.zip",
-      "sha256": "4b8d0b799d172e7582d687bebe2b02a67371eb80206a28bedf417c90b1226180",
-      "size": 132814391
+      "sha256": "e7d773563dfa775a1be5221f257372b1ab89a69eb04ce6dbb7c34416382461bd",
+      "size": 139906614
     }
   },
   "ID": {
@@ -79,15 +79,15 @@
   "IL": {
     "IL_2020": {
       "path": "IL/IL_2020_pack.zip",
-      "sha256": "807c30b3fe8befac54eab7051cecf6d4a85cf4605abb58e721db0cac897851d2",
-      "size": 276355623
+      "sha256": "7b0ac7e66497ee2b1835a1d0d4491166cbefc482aafb3ffb9ab5e2d0b084119d",
+      "size": 284620503
     }
   },
   "IN": {
     "IN_2020": {
       "path": "IN/IN_2020_pack.zip",
-      "sha256": "83b09f49a8129960badc774f73c03d25935b544161cc774d0d1a47bcca147efb",
-      "size": 164041027
+      "sha256": "18162d2db1f8c011d1a1e55f0c7041494a39bd687a41e857d06fc037d90563c6",
+      "size": 178708478
     }
   },
   "KS": {
